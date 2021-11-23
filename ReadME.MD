@@ -49,6 +49,7 @@ Practice on using Redux
 
 <!-- ROAD MAP -->
 ### Road map
+Currently only runs with NPM run develop. Getting the website deployed and working properly would be the next step. Here is a video example of it working on local. https://youtu.be/TlyA8GTUQWQ
 
 
 
